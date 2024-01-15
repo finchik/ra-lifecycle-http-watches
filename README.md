@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/3ldwwu8ufagl9t0y?svg=true)](https://ci.appveyor.com/project/finchik/ra-lifecycle-http-watches)
 
-WEB VERSION https://finchik.github.io/ra-lifecycle-http-watches/
+WEB VERSION https://finchik.github.io/ra-lifecycle-http-watches/index.html
 
 # Мировые часы
 
